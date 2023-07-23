@@ -30,7 +30,7 @@ body{
   color: #fff;
   text-transform: uppercase;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .wrapper .sidebar ul li{
@@ -80,24 +80,25 @@ body{
 
 .wrapper .main_content{
   width: 100%;
-  margin-left: 200px;
+  margin-left: 210px;
 }
 
 .wrapper .main_content .header{
-  padding: 20px;
+  padding: 25px;
   background: #fff;
   color: #717171;
   border-bottom: 1px solid #e0e4e8;
 }
 
 .wrapper .main_content .info{
-  margin: 20px;
+  margin: 0px;
   color: #717171;
   line-height: 25px;
 }
 
 .wrapper .main_content .info div{
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 @media (max-height: 500px){
